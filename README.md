@@ -11,9 +11,8 @@
 <img src="https://img.shields.io/badge/-cacastanas%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 
-- 💼 Software Engineer
-- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Web Development</strong>, <strong>Cyber Security</strong>, and <strong>NFT Projects</strong>.
+- 🔍 I’m looking for connections in <strong>Web Development, Software Engineer, and Animation (Blender)</strong> Industry.
+
 
 ------------------------------------------- 
 
