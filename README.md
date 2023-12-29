@@ -23,7 +23,7 @@
 
 ------------------------------------------- 
 
-### Examples of Work:
+### Example of Work:
 <img src="https://github.com/dessagdevera/dessagdevera/blob/5c77e7982b5567d10d19d7dcb04cb4c317501721/asset/kiosk.gif" width ="512">
 
 
