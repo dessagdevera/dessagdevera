@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dessa</h1>
+<h1 align="center">Hi there, I am Dessa👋</h1>
 <h3 align="center">A passionate programmer from the Philippines</h3>
 
 ------------------------------------------- 
@@ -9,7 +9,7 @@
 
 ### How to reach me: 
 <a href="mailto: dessadevera00@gmail.com">
-<img src="https://img.shields.io/badge/dessamaedevera%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a><br> <br>
+<img src="https://img.shields.io/badge/dessamaedevera00%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a><br> <br>
 
 
 - 🔍 I’m looking for connections in <strong>Web Development, Software Engineer, and Animation (Blender)</strong> Industry.
