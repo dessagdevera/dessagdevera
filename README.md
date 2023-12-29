@@ -4,7 +4,7 @@
 ------------------------------------------- 
 
 ### Socials: 
-<a href="https://www.linkedin.com/in/dessa-mae-de-vera-350b49295/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dessa-mae-de-vera-350b49295/"><img src="https://img.shields.io/badge/dessadevera-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 
 ### How to reach me: 
