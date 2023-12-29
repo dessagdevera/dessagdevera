@@ -3,12 +3,12 @@
 
 ------------------------------------------- 
 ### Socials: 
-<a href="https://www.linkedin.com/in/dessa-mae-de-vera-350b49295/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dessa-mae-de-vera-350b49295/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 
 ### How to reach me: 
 <a href="mailto: dessadevera00@gmail.com">
-<img src="https://img.shields.io/badge/-cacastanas%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/-cacastanas%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a><br> <br>
 
 
 - 🔍 I’m looking for connections in <strong>Web Development, Software Engineer, and Animation (Blender)</strong> Industry.
