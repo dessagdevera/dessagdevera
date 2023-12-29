@@ -4,12 +4,12 @@
 ------------------------------------------- 
 
 ### Socials: 
-<a href="https://www.linkedin.com/in/dessa-mae-de-vera-350b49295/"><img src="https://img.shields.io/badge/dessadevera-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dessa-mae-de-vera-350b49295/"><img src="https://img.shields.io/badge/dessamaedevera-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 
 ### How to reach me: 
 <a href="mailto: dessadevera00@gmail.com">
-<img src="https://img.shields.io/badge/dessadevera%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a><br> <br>
+<img src="https://img.shields.io/badge/dessamaedevera%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a><br> <br>
 
 
 - 🔍 I’m looking for connections in <strong>Web Development, Software Engineer, and Animation (Blender)</strong> Industry.
