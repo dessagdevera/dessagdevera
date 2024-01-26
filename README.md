@@ -4,7 +4,7 @@
 ------------------------------------------- 
 
 ### Socials: 
-<a href="https://www.linkedin.com/in/dessa-mae-de-vera-350b49295/"><img src="https://img.shields.io/badge/dessamaedevera-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/profile.php?id=100008166853108"><img src="https://img.shields.io/badge/dessamaedevera-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<a href="https://www.linkedin.com/in/dessa-mae-de-vera-350b49295/"><img src="https://img.shields.io/badge/dessamaedevera-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/profile.php?id=100008166853108"><img src="https://img.shields.io/badge/dessamae-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <br>
 
 ### How to reach me: 
@@ -25,6 +25,7 @@
 
 ### Example of Work:
 <img src="https://github.com/dessagdevera/dessagdevera/blob/5c77e7982b5567d10d19d7dcb04cb4c317501721/asset/kiosk.gif" width ="512">
+
 
 https://github.com/dessagdevera/dessagdevera/assets/77533364/a781a02a-6131-4c02-a906-2376a0e6c759 
 
